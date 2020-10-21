@@ -1,8 +1,9 @@
 # TODO-APP
+![MEAN STACK Website TODO](https://github.com/Bousseta/TaskApp/blob/main/Capture.PNG?raw=true "MEAN STACK Website TODO LIST")
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
-![MEAN STACK Website TODO](Capture.png?raw=true "MEAN STACK Website TODO LIST")
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
